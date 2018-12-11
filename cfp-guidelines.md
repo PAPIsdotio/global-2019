@@ -1,6 +1,6 @@
-# Call for Proposals — PAPIs '19
+# Call for Proposals — PAPIs 2019
 
-PAPIs is the international series of community conferences dedicated to **real-world Machine Learning applications**. Previous editions took place in London, São Paulo, Sydney, Barcelona, Paris, Valencia, and this year's global edition (PAPIs '19) will be held in Boston for the 4th consecutive year. Engineers, managers, scientists, hackers and researchers will meet to share experiences and discover the latest innovations, techniques and tools to build ML applications. Find out more about the conference at [papis.io/2019](http://www.papis.io/2019) and submit proposals at [cfp.papis.io/events/2019](http://cfp.papis.io/events/2019).
+PAPIs is the international series of community conferences dedicated to **real-world Machine Learning applications**. Previous editions took place in London, São Paulo, Sydney, Barcelona, Paris, Valencia, and this year's global edition (PAPIs 2019) will be held in Boston for the 3rd consecutive year. Engineers, managers, scientists, hackers and researchers will meet to share experiences and discover the latest innovations, techniques and tools to build ML applications.
 
 ## Key dates
 
@@ -17,13 +17,13 @@ We'd like to **strongly encourage women to submit proposals**. As a community co
 
 ## Tracks
 
-### Applying ML in the real world — October 16
-
-This track is for everyone who's interested in the integration of ML into real-world applications — from engineers and scientists to managers. It will feature presentations of ML use cases in new areas, discussions on the challenges of integrating ML into various applications/products, and lessons learnt. This can include domain-specific challenges, as well as those related to product design, transparency, privacy, fairness, accountability, ethics, etc. We would like to also encourage the community to share their failure stories — after all, you aren’t a real ML innovator until you’ve had to deal with massive failure of your ML system! Presentations will be 20' long, plus 5' for Q&A.
-
 ### ML Engineering & ScienceOps (technical) — October 16
 
 This track is targeted at Software Developers, ML Engineers, and ScienceOps professionals (DevOps for Data Science). It is dedicated to discussions on the technical challenges of deploying ML systems in production, and lessons learnt from experience. We invite industry participants to describe their war stories and the architectures, pipelines, frameworks, APIs, etc., that they built to create or improve intelligent applications. Proposals for this track should be technical. They can range from ML beginner-friendly how-tos to deep dives for more experienced professionals. Presentations will be 20' long, plus 5' for Q&A.
+
+### Applying ML in the real world — October 16
+
+This track is for everyone who's interested in the integration of ML into real-world applications — from engineers and scientists to managers. It will feature presentations of ML use cases in new areas, discussions on the challenges of integrating ML into various applications/products, and lessons learnt. This can include domain-specific challenges, as well as those related to product design, transparency, privacy, fairness, accountability, ethics, etc. We would like to also encourage the community to share their failure stories — after all, you aren’t a real ML innovator until you’ve had to deal with massive failure of your ML system! Presentations will be 20' long, plus 5' for Q&A.
 
 ### New ML techniques (technical) — October 17
 
@@ -45,38 +45,19 @@ _Presentations should be non-commercial. A very limited number of sponsored spea
 
 We welcome technical papers, industrial experience reports, review papers and research papers. While submitting a paper is no requirement to be accepted to present at PAPIs, we highly encourage authors to take the time to share their work with the community in this format as well. Papers presented at PAPIs are published in Proceedings of Machine Learning Research (see our [2016](http://proceedings.mlr.press/v67/) and [2015 proceedings](http://proceedings.mlr.press/v50/) as examples). More information is available in our [tips & rules](https://github.com/PAPIsdotio/general/blob/master/cfp-tips-rules.md).
 
-### Startups
-
-PAPIs hosts the world's 1st startup competition where participants are judged by an AI on stage — not a human jury! We're looking for new startups that have AI / ML at their core. Selected startups will be able to present on stage and exhibit at the conference. Applications should be made via a separate platform (To Be Announced).
-
 ## We’re looking forward to receiving your best proposals!
 
-If you have questions or if you have not heard about the status of your submission, please [contact us](mailto:program-committee-2018@papis.mailclark.ai).
+If you have questions or if you have not heard about the status of your submission, please [contact us](mailto:program-committee-2019@papis.mailclark.ai).
 
 ### Program Committee
 
 - [Sunanda Koduvayur](https://www.linkedin.com/in/sunandakp/) (Wayfair) - Program Chair
-- [Sharat Chikkerur](https://www.linkedin.com/in/sharatchikkerur/) (Microsoft) - Chair of the _ML Engineering & ScienceOps_ track
+- [Sharat Chikkerur](https://www.linkedin.com/in/sharatchikkerur/) (Microsoft) - Chair of the _ML Engineering_ track
 - [Louis Dorard](http://linkedin.com/in/louisdorard) (UCL) - General Chair
 
 Reviewers:
 
-- [Alex Casalboni](https://www.linkedin.com/in/alexcasalboni/) (AWS)
-- [Alexia Audevart](https://www.linkedin.com/in/alexia-audevart-450b8a1/) (datactik)
-- [Anika Mukherjee](https://www.linkedin.com/in/anikamukherjee/) (University of Ottawa)
-- [Beth Logan](https://www.linkedin.com/in/bethlogan/) (Dataxu)
-- [Cibele Montez Halasz](https://www.linkedin.com/in/cibele-montez-halasz/) (Twitter)
-- [Claire Hardgrove](https://www.linkedin.com/in/cvhardgrove/) (University of Sydney)
-- [Dan Nichol](https://www.linkedin.com/in/daniel-nichol-baa70954/) (The Institute of Cancer Research)
-- [Daniel E Hernandez](https://www.linkedin.com/in/daniel-hernandez-44137a4/) (Instituto Tecnológico de Tijuana)
-- [Greg Antell](https://www.linkedin.com/in/gregorycantell/) (BigML)
-- [Izabela Paulino Fonseca](https://www.linkedin.com/in/izabela-paulino-fonseca/) (TOTVS)
-- Leonardo Trujillo (Instituto Tecnológico de Tijuana)
-- [Libby Kinsey](https://www.linkedin.com/in/libbykinsey/) (Project Juno)
-- [Pierre Gutierrez](https://www.linkedin.com/in/pierre-gutierrez-aaa92727/) (Scortex)
-- [Sébastien Treguer](https://www.linkedin.com/in/sebastien-treguer-8121625/) (Aphinao)
-- [Tyler Richie](https://www.linkedin.com/in/tyler-richie-1096b58/) (TenX)
-- [Vitor Falleiros](https://www.linkedin.com/in/vbfall/) (Dessa)
+- TBA
 
 ### Acknowledgements
 
