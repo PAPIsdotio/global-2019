@@ -45,7 +45,6 @@ An invoice will be sent in Euros (EUR) and it will specify the corresponding amo
 
 Payment options:
 
-* A discount of 500 USD will be given for payments made by credit card on the Form.
 * Payment can also be sent by eletronic bank transfer, which should include the invoice number in reference.
   * Bank details are:
     * IBAN: FR76 1333 5003 0108 0015 6404 918
