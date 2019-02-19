@@ -1,6 +1,6 @@
 # Sponsorship Agreement
 
-## PAPIs Global 2019 — Boston, October 16-17, 2019
+## PAPIs Global 2019 — Boston, October 15-16, 2019
 
 Sponsorship agreement between Sponsor and
 
@@ -14,7 +14,7 @@ Sponsorship agreement between Sponsor and
 
 ## Article 1. Purpose of Agreement
 
-The purpose of this Agreement is to set the technical, commercial, operational and financial conditions under which the Sponsor will benefit from its participation in the PAPIs Global 2018 conference held on October 16-17, 2018 at Microsoft NERD in Boston, United States (“Conference”) and organized by Louis Dorard (“Organizer”), as a Sponsor of chosen Category (Silver or Gold).
+The purpose of this Agreement is to set the technical, commercial, operational and financial conditions under which the Sponsor will benefit from its participation in the PAPIs Global 2019 conference held on October 15-16, 2019 at Microsoft NERD in Boston, United States (“Conference”) and organized by Louis Dorard (“Organizer”), as a Sponsor of chosen Category (Silver or Gold).
 
 ## Article 2. Obligations
 
@@ -24,7 +24,7 @@ The purpose of this Agreement is to set the technical, commercial, operational a
 2. Organizer shall send invoice after receipt of the Form and payment.
 3. Organizer shall start providing benefits, according to best practices and in the best way possible.
 4. Sponsor shall send a list of persons to whom he wishes to assign his complimentary registrations, to contact@papis.io.
-5. Conference will take place from October 16, 2018 at 9am to October 17, 2018 at 3.30pm ET – East Time, at which point this Agreement will be deemed to be fully completed.
+5. Conference will take place from October 15, 2019 at 9am to October 16, 2019 at 3.30pm ET – East Time, at which point this Agreement will be deemed to be fully completed.
 
 **The Sponsor must:**
 
